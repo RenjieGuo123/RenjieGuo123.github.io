@@ -1,51 +1,83 @@
-# Renjie Guo (郭仁杰)
+<div align="center">
 
-**Email:** grj666o.o@gmail.com  
-**Affiliation:** iDreamSky Technology Co., Ltd.  
-**Position:** Researcher, Game AI & Reinforcement Learning  
-**Location:** China
+# Renjie Guo
+### 郭仁杰
+
+**Researcher · Game AI & Reinforcement Learning**
+
+[![Email](https://img.shields.io/badge/Email-grj666o.o%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:grj666o.o@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RenjieGuo123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RenjieGuo123)
+[![Affiliation](https://img.shields.io/badge/Affiliation-iDreamSky-1f6feb?style=flat-square)](#)
+
+</div>
 
 ---
 
-## About Me
+## About
 
-I am a researcher at **iDreamSky Technology Co., Ltd. (创梦天地科技有限公司)**, where I focus on **Reinforcement Learning for Game AI**. My work centers on building intelligent agents that can play, balance, and enhance modern video games — covering policy learning, self-play, multi-agent decision making, and the engineering challenges of deploying RL systems at production scale.
+I am a researcher at **iDreamSky Technology Co., Ltd.** (创梦天地科技有限公司),
+working on **Reinforcement Learning for Game AI** — building intelligent agents
+that can play, balance, and enrich modern video games.
 
-Before joining the industry, I received both my **B.Eng.** and **M.Eng.** degrees in **Software Engineering** from **Huazhong University of Science and Technology (HUST)**, one of China's leading C9-tier research universities.
+My focus spans policy learning, self-play, multi-agent decision making,
+and the engineering challenges of bringing RL systems to production.
+
+> Before industry, I spent both my undergraduate and graduate years at
+> **Huazhong University of Science and Technology (HUST)**,
+> one of China's leading C9-tier research universities.
 
 ---
 
 ## Education
 
-- **M.Eng. in Software Engineering**, Huazhong University of Science and Technology (HUST)
-- **B.Eng. in Software Engineering**, Huazhong University of Science and Technology (HUST)
+| Degree   | Field                 | Institution                                                |
+| :------- | :-------------------- | :--------------------------------------------------------- |
+| **M.Eng.** | Software Engineering  | Huazhong University of Science and Technology *(HUST)*     |
+| **B.Eng.** | Software Engineering  | Huazhong University of Science and Technology *(HUST)*     |
 
 ---
 
 ## Experience
 
-- **Researcher**, iDreamSky Technology Co., Ltd. (创梦天地科技有限公司)  
-  Research area: **Game AI / Reinforcement Learning**
+| Role           | Organization                                                       | Focus                                  |
+| :------------- | :----------------------------------------------------------------- | :------------------------------------- |
+| **Researcher** | iDreamSky Technology Co., Ltd. <br/> *创梦天地科技有限公司*          | Game AI · Reinforcement Learning       |
 
 ---
 
 ## Research Interests
 
-- Reinforcement Learning (RL)
-- Deep Reinforcement Learning (Deep RL)
-- Multi-Agent Reinforcement Learning (MARL)
-- Game AI and Game-Playing Agents
-- Self-Play, Imitation Learning, and Offline RL
-- Large-Scale RL Systems and Real-World Deployment
+<table>
+  <tr>
+    <td>·&nbsp;&nbsp;Reinforcement Learning</td>
+    <td>·&nbsp;&nbsp;Deep Reinforcement Learning</td>
+  </tr>
+  <tr>
+    <td>·&nbsp;&nbsp;Multi-Agent Reinforcement Learning</td>
+    <td>·&nbsp;&nbsp;Game AI & Game-Playing Agents</td>
+  </tr>
+  <tr>
+    <td>·&nbsp;&nbsp;Self-Play &amp; Imitation Learning</td>
+    <td>·&nbsp;&nbsp;Offline Reinforcement Learning</td>
+  </tr>
+  <tr>
+    <td>·&nbsp;&nbsp;Large-Scale RL Systems</td>
+    <td>·&nbsp;&nbsp;Real-World RL Deployment</td>
+  </tr>
+</table>
 
 ---
 
 ## Contact
 
-- **Email:** grj666o.o@gmail.com
-- **GitHub:** [github.com/RenjieGuo123](https://github.com/RenjieGuo123)
-- **OpenReview:** _to be added_
+- **Email** &nbsp;·&nbsp; [grj666o.o@gmail.com](mailto:grj666o.o@gmail.com)
+- **GitHub** &nbsp;·&nbsp; [github.com/RenjieGuo123](https://github.com/RenjieGuo123)
+- **OpenReview** &nbsp;·&nbsp; *coming soon*
 
 ---
 
-<sub>This page serves as the personal homepage of <b>Renjie Guo</b> (email: <code>grj666o.o@gmail.com</code>) for academic profile verification.</sub>
+<div align="center">
+
+<sub>Personal homepage of <b>Renjie Guo</b> &nbsp;·&nbsp; <code>grj666o.o@gmail.com</code> &nbsp;·&nbsp; for academic profile verification</sub>
+
+</div>
