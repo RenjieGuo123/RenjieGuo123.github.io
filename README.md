@@ -1,14 +1,19 @@
 <div align="center">
+  <h1>Renjie Guo</h1>
+  <h3>郭仁杰</h3>
+  <p><b>Researcher · Game AI & Reinforcement Learning</b></p>
 
-# Renjie Guo
-### 郭仁杰
-
-**Researcher · Game AI & Reinforcement Learning**
-
-[![Email](https://img.shields.io/badge/Email-grj666o.o%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:grj666o.o@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RenjieGuo123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RenjieGuo123)
-[![Affiliation](https://img.shields.io/badge/Affiliation-iDreamSky-1f6feb?style=flat-square)](#)
-
+  <p>
+    <a href="mailto:grj666o.o@gmail.com">
+      <img src="https://img.shields.io/badge/Email-grj666o.o%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/RenjieGuo123">
+      <img src="https://img.shields.io/badge/GitHub-RenjieGuo123-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Affiliation-iDreamSky-1f6feb?style=flat-square" alt="Affiliation">
+    </a>
+  </p>
 </div>
 
 ---
@@ -30,18 +35,18 @@ and the engineering challenges of bringing RL systems to production.
 
 ## Education
 
-| Degree   | Field                 | Institution                                                |
-| :------- | :-------------------- | :--------------------------------------------------------- |
-| **M.Eng.** | Software Engineering  | Huazhong University of Science and Technology *(HUST)*     |
-| **B.Eng.** | Software Engineering  | Huazhong University of Science and Technology *(HUST)*     |
+| Degree     | Field                | Institution                                            |
+| :--------- | :------------------- | :----------------------------------------------------- |
+| **M.Eng.** | Software Engineering | Huazhong University of Science and Technology *(HUST)* |
+| **B.Eng.** | Software Engineering | Huazhong University of Science and Technology *(HUST)* |
 
 ---
 
 ## Experience
 
-| Role           | Organization                                                       | Focus                                  |
-| :------------- | :----------------------------------------------------------------- | :------------------------------------- |
-| **Researcher** | iDreamSky Technology Co., Ltd. <br/> *创梦天地科技有限公司*          | Game AI · Reinforcement Learning       |
+| Role           | Organization                                              | Focus                            |
+| :------------- | :-------------------------------------------------------- | :------------------------------- |
+| **Researcher** | iDreamSky Technology Co., Ltd. <br/>*创梦天地科技有限公司* | Game AI · Reinforcement Learning |
 
 ---
 
@@ -49,20 +54,20 @@ and the engineering challenges of bringing RL systems to production.
 
 <table>
   <tr>
-    <td>·&nbsp;&nbsp;Reinforcement Learning</td>
-    <td>·&nbsp;&nbsp;Deep Reinforcement Learning</td>
+    <td>· &nbsp;Reinforcement Learning</td>
+    <td>· &nbsp;Deep Reinforcement Learning</td>
   </tr>
   <tr>
-    <td>·&nbsp;&nbsp;Multi-Agent Reinforcement Learning</td>
-    <td>·&nbsp;&nbsp;Game AI & Game-Playing Agents</td>
+    <td>· &nbsp;Multi-Agent Reinforcement Learning</td>
+    <td>· &nbsp;Game AI & Game-Playing Agents</td>
   </tr>
   <tr>
-    <td>·&nbsp;&nbsp;Self-Play &amp; Imitation Learning</td>
-    <td>·&nbsp;&nbsp;Offline Reinforcement Learning</td>
+    <td>· &nbsp;Self-Play & Imitation Learning</td>
+    <td>· &nbsp;Offline Reinforcement Learning</td>
   </tr>
   <tr>
-    <td>·&nbsp;&nbsp;Large-Scale RL Systems</td>
-    <td>·&nbsp;&nbsp;Real-World RL Deployment</td>
+    <td>· &nbsp;Large-Scale RL Systems</td>
+    <td>· &nbsp;Real-World RL Deployment</td>
   </tr>
 </table>
 
@@ -77,7 +82,5 @@ and the engineering challenges of bringing RL systems to production.
 ---
 
 <div align="center">
-
-<sub>Personal homepage of <b>Renjie Guo</b> &nbsp;·&nbsp; <code>grj666o.o@gmail.com</code> &nbsp;·&nbsp; for academic profile verification</sub>
-
+  <sub>Personal homepage of <b>Renjie Guo</b> &nbsp;·&nbsp; <code>grj666o.o@gmail.com</code> &nbsp;·&nbsp; for academic profile verification</sub>
 </div>
